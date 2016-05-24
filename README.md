@@ -1,6 +1,6 @@
 **Boomshine 3D**
 ============
-Boomshine 3D is a small project that is designed to help introduce me to the world of creating 3D games using [Unreal Engine 4](https://www.unrealengine.com/). As the name of the project suggests, this is a 3D version of the a game called [Boomshine](http://www.k2xl.com/games/boomshine/) written by Danny Miller. The concept is addictively simple, and maybe re-creating it in 3D will destroy some of its appeal through simplicity, but as stated, this project is simply to get me used to UE4. 
+Boomshine 3D is a small project that is intended to be a gentle introduction to 3D development using [Unreal Engine 4](https://www.unrealengine.com/). The goal of this project is to recreate a 3D version of a game called [Boomshine](http://www.k2xl.com/games/boomshine/) written by Danny Miller. The concept of Boomshine is addictively simple, and re-creating it in 3D will likely destroy the appeal of the original by removing its simplicity. However, to restate the original point, the intent of this project is purely to be an introduction to game development using UE4.
 
 
 Requirements
