@@ -8,7 +8,7 @@ Boomshine 3D is a small project that is intended to be a gentle introduction to 
 
 Requirements
 -------------------
-This project uses Unreal Engine 4.11.2.
+This project uses Unreal Engine 4.12.0.
 
 
 Installation
