@@ -26,8 +26,17 @@ A very well deserved thank you goes out to the following:
 
  - Danny Miller for the original Boomshine
  - Jeremy Baldwin for creating and releasing an impressive and comprehensive [shader](https://www.dropbox.com/s/a06wyc817gtcp3w/UForumHelp_DynRadial.rar?dl=0)
+ - [Kevin MacLeod](http://incompetech.com/music/royalty-free/music.html) for the background music (see Legal section below)
  - Flakky for allowing the use of an awesome [orbit cam](https://www.youtube.com/watch?v=YNgXBrBYiQ0)
  - Nobiax for providing [free textures](http://nobiax.deviantart.com/art/Yughues-Free-PBR-Metal-Plates-528470648)
  - [Simple Icon](http://simpleicon.com/) for providing a basis for some of the artwork used
  - [stackedit.io](https://stackedit.io/viewer#), which was used to generate this README markup
  - All the contributors to the many forums that I have visited (and continue to visit) throughout the project
+
+
+Legal
+--------
+"Relaxing Piano Music" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
