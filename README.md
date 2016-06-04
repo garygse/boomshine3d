@@ -36,7 +36,7 @@ A very well deserved thank you goes out to the following:
 
 Legal
 --------
-"Relaxing Piano Music" Kevin MacLeod (incompetech.com)
-Licensed under Creative Commons: By Attribution 3.0 License
-http://creativecommons.org/licenses/by/3.0/
+"Relaxing Piano Music" Kevin MacLeod (incompetech.com)  
+Licensed under Creative Commons: By Attribution 3.0 License  
+http://creativecommons.org/licenses/by/3.0/  
 
