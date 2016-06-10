@@ -30,6 +30,8 @@ A very well deserved thank you goes out to the following:
  - Flakky for allowing the use of an awesome [orbit cam](https://www.youtube.com/watch?v=YNgXBrBYiQ0)
  - Nobiax for providing [free textures](http://nobiax.deviantart.com/art/Yughues-Free-PBR-Metal-Plates-528470648)
  - [Simple Icon](http://simpleicon.com/) for providing a basis for some of the artwork used
+ - Tom Shannon for his excellent [fireworks blueprint](http://www.tomshannon3d.com/2014/07/blueprintfireworks.html)
+ - [Sound Effects ツ](https://www.youtube.com/channel/UCzS3MussouizmCUMNF01YIQ/videos) for the firework explosion sound
  - [stackedit.io](https://stackedit.io/viewer#), which was used to generate this README markup
  - All the contributors to the many forums that I have visited (and continue to visit) throughout the project
 
